@@ -34,8 +34,6 @@
                        <script src="{{ site.baseurl }}/static/js/super-search.js"></script>
                    {% endif %}
                 <script type="text/javascript">
-                  (function ()
-                  {
                     SimpleJekyllSearch({
                       searchInput: document.getElementById('search-input'),
                       resultsContainer: document.getElementById('results-container'),
@@ -46,7 +44,6 @@
                       fuzzy: false,
                       exclude: ['Welcome']
                     })
-                  })();
                   </script>
             </div>
             {% endif %}

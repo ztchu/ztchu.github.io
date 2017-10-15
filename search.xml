@@ -1,0 +1,8 @@
+---
+layout: none
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<url_of_sitemap >
+	<url>{{ site.baseurl }}/sitemap.xml</url>
+</url_of_sitemap>

@@ -1,7 +1,7 @@
-title: walterlv
+title: lindexi
 description: Windows 10 Developer
-author: walterlv
-post_author: 吕毅
+author: lindexi
+post_author: 林德熙
 logo: /foo/static/img/avatar.png
 github: https://github.com/lindexi
 about: Windows 10 Developer
@@ -14,7 +14,7 @@ allowsearch: true
 analytics:
   google: UA-108101550-1
 disqus:
-  name: walterlv
+  name: lindexi
 
 share:
   twitter_username: _lvyi_
@@ -42,12 +42,12 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "吕毅"
+      author: "林德熙"
       permalink: "/post/:title.html"
   - scope:
       path: "_articles"
       type: "articles"
     values:
       layout: "post"
-      author: "吕毅"
+      author: "林德熙"
       permalink: "/article/:title.html"

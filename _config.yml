@@ -6,7 +6,7 @@ logo: /foo/static/img/avatar.png
 github: https://github.com/lindexi
 about: Windows 10 Developer
 
-baseurl: "/foo"
+baseurl: ""
 url: "https://lindexi.gitee.io"
 
 allowsearch: true
